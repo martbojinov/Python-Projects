@@ -1,5 +1,5 @@
 # Python-Projects
-Some small python projects I did for a couple of my classes
+Some small python projects I did for a couple of my classes.
 
 Program 1 is an attempt to create topographical maps using triangles rendered by a Python turtle.
 
